@@ -1,2 +1,2 @@
 # Liquid-Swipe-Lottie
-Swipe Layout & Lottie Animations Implemented For Splash And Login Process . The Best Ever UX
+Swipe Layout & Lottie Animations Implemented For Splash And Login Process . The Best Ever UX I Created
