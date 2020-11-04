@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android-extensions'
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "29.0.3"
+    buildToolsVersion "30.0.2"
 
     defaultConfig {
         applicationId "com.anjali.myapplication"
@@ -43,6 +43,9 @@ dependencies {
     implementation 'com.airbnb.android:lottie:3.4.1'
     //onboarding dependency for splash
     implementation 'com.cuberto:liquid-swipe:1.0.0'
+
+    //navigation drawer lib
+    implementation "com.yarolegovich:sliding-root-nav:1.1.1"
 
     //navigation drawer lib
     implementation "com.yarolegovich:sliding-root-nav:1.1.1"
